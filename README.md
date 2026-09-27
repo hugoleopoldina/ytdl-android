@@ -1,4 +1,4 @@
-# ytdl-java-android
+# ytdl-android
 Aplicativo android que baixa e converte videos do youtube em arquivos MP3/MP4.
 
 # Objetivo
